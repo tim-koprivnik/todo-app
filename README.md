@@ -1,6 +1,6 @@
 # Todo App
 
-This is simple todo app, created in [Next.js](https://nextjs.org/) and bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is simple todo app that allows users to add and remove todo tasks, created in [Next.js](https://nextjs.org/) and bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Technologies used
 
