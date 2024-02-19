@@ -9,6 +9,8 @@ This is simple todo app that allows users to add and remove todo tasks, created 
 - [TypeScript](https://www.typescriptlang.org/)
 - [SCSS](https://sass-lang.com/)
 - [TailwindCSS](https://tailwindcss.com/)
+- [Prisma](https://www.prisma.io/)
+- [SQLite](https://www.sqlite.org/index.html)
 
 ## Getting Started
 
